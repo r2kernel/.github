@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="800" viewBox="0 0 720 800" fill="none" role="img" aria-labelledby="title description">
+<title id="title">R2Kernel: The runtime kernel for software-defined robots.</title>
+<desc id="description">Robot = Platform + Application + Deployment. Platform describes what the robot can do. Application describes its tasks. Deployment sets the packages, hosts and links. R2Kernel checks, runs, connects and monitors the robot software.</desc>
+<!-- Existing Console CLI wordmark geometry. Maintained entry artwork. -->
+<defs>
+<radialGradient id="glow" cx=".48" cy=".25" r=".73"><stop stop-color="#5B152C" stop-opacity=".63"/><stop offset="1" stop-color="#070707" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#5A2637" stroke-opacity=".13"/></pattern>
+</defs>
+<rect width="720" height="800" rx="4" fill="#070707"/>
+<rect x="1" y="1" width="718" height="798" rx="3" fill="url(#glow)" stroke="#44232E"/>
+<rect y="250" width="720" height="550" fill="url(#grid)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<g transform="translate(58,12) scale(0.77)" fill="none" stroke="#D13B4D" stroke-width="1.3" stroke-linecap="square" stroke-linejoin="miter"><path xmlns="http://www.w3.org/2000/svg" d="M18 24H30M34 24H46M50 24H62M66 24H78M114 24H126M130 24H142M146 24H158M162 24H174M210 24H222M258 24H270M274 24H286M306 24H318M322 24H334M338 24H350M354 24H366M370 24H382M402 24H414M418 24H430M434 24H446M450 24H462M498 24H510M562 24H574M594 24H606M610 24H622M626 24H638M642 24H654M658 24H670M690 24H702" vector-effect="non-scaling-stroke" />
+    <path xmlns="http://www.w3.org/2000/svg" d="M8 30V53M50 52H62M82 30L94 53M104 30V53M114 52H126M130 52H142M146 52H158M178 30L190 53M200 30V53M232 30V53M242 53L254 30M274 53L286 30M296 30V53M322 52H334M338 52H350M354 52H366M370 52H382M392 30V53M434 52H446M466 30L478 53M488 30V53M514 30L526 53M552 30V53M584 30V53M610 52H622M626 52H638M642 52H654M658 52H670M680 30V53M712 30V53" vector-effect="non-scaling-stroke" />
+    <path xmlns="http://www.w3.org/2000/svg" d="M8 58V81M40 58V81M50 80H62M67 58C78 62 78 77 67 81M104 58V81M130 80H142M146 80H158M163 58C174 62 174 77 163 81M200 58V81M232 58L230 64M258 81L270 58M296 58V81M338 80H350M360 58V81M392 58V81M424 58V81M434 80H446M451 58C462 62 462 77 451 81M488 58V81M530 58L542 81M552 58V81M584 58V81M626 80H638M648 58V81M680 58V81M712 58V81" vector-effect="non-scaling-stroke" />
+    <path xmlns="http://www.w3.org/2000/svg" d="M8 86V109M50 108H62M94 86L82 98L94 109M114 109L126 86M146 108H158M162 108H174M178 109L190 86M200 86V109M232 108V109M258 86L270 109M296 86V109M328 86V109M338 108H350M354 108H366M370 108H382M392 86V109M434 108H446M478 86L466 98L478 109M488 86V109M520 86V109M530 86L542 109M584 86V109M616 86V109M626 108H638M642 108H654M658 108H670M680 86V109M712 86V109M722 108H734M738 108H750M754 108H766" vector-effect="non-scaling-stroke" />
+    <path xmlns="http://www.w3.org/2000/svg" d="M8 114V137M18 136H30M40 114V137M66 114L78 137M82 136H94M98 114L110 137M114 136H126M130 136H142M146 136H158M162 136H174M178 136H190M200 114V137M210 136H222M232 114V137M242 114L254 137M258 136H270M274 114L286 137M296 114V137M306 136H318M322 136H334M338 136H350M354 136H366M370 136H382M392 114V137M402 136H414M424 114V137M450 114L462 137M466 136H478M482 114L494 137M498 136H510M520 114V137M546 114L558 137M562 136H574M584 114V137M594 136H606M610 136H622M626 136H638M642 136H654M658 136H670M680 114V137M690 136H702M706 136H718M722 136H734M738 136H750M754 136H766M776 114V137" vector-effect="non-scaling-stroke" />
+  </g>
+<text x="360" y="176" text-anchor="middle" fill="#F6F4F4" font-size="32">The runtime kernel for</text>
+<text x="360" y="217" text-anchor="middle" fill="#F6F4F4" font-size="32">software-defined robots.</text>
+<path d="M40 250H680" stroke="#492630"/>
+<text x="360" y="289" text-anchor="middle" fill="#E38AA0" font-size="36" font-weight="600">Robot =</text>
+<rect x="40" y="314" width="640" height="78" rx="3" fill="#1B1117" stroke="#643546"/>
+<text x="60" y="347" fill="#F6F4F4" font-size="27" font-weight="600">Platform</text>
+<text x="60" y="374" fill="#CBB5BE" font-size="22">What the robot can do</text>
+<path d="M680 353H700" stroke="#A65A70" stroke-width="1.5"/>
+<text x="360" y="415" text-anchor="middle" fill="#D69AAA" font-size="24">+</text>
+<rect x="40" y="420" width="640" height="78" rx="3" fill="#1B1117" stroke="#643546"/>
+<text x="60" y="453" fill="#F6F4F4" font-size="27" font-weight="600">Application</text>
+<text x="60" y="480" fill="#CBB5BE" font-size="22">What the robot should do</text>
+<path d="M680 459H700" stroke="#A65A70" stroke-width="1.5"/>
+<text x="360" y="521" text-anchor="middle" fill="#D69AAA" font-size="24">+</text>
+<rect x="40" y="526" width="640" height="78" rx="3" fill="#1B1117" stroke="#643546"/>
+<text x="60" y="559" fill="#F6F4F4" font-size="27" font-weight="600">Deployment</text>
+<text x="60" y="586" fill="#CBB5BE" font-size="22">Packages, hosts and links</text>
+<path d="M680 565H700" stroke="#A65A70" stroke-width="1.5"/>
+<path d="M700 353V636H360V672" stroke="#A65A70" stroke-width="1.5"/>
+<rect x="40" y="672" width="640" height="86" rx="3" fill="#32121E" stroke="#B4637B"/>
+<text x="360" y="703" text-anchor="middle" fill="#FADEE5" font-size="26" font-weight="600">R2Kernel runtime</text>
+<text x="360" y="730" text-anchor="middle" fill="#D1AEB9" font-size="22">Check, run, connect, and monitor</text>
+</g>
+</svg>
