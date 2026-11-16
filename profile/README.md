@@ -1,6 +1,6 @@
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/r2kernel/r2kernel?style=flat&color=78243E)](https://github.com/r2kernel/r2kernel) [![Installer downloads](https://img.shields.io/github/downloads/r2kernel/r2kernel/install.sh?style=flat&color=78243E&label=downloads)](https://github.com/r2kernel/r2kernel/releases)
+[![GitHub stars](https://img.shields.io/github/stars/r2kernel/r2kernel?style=flat&color=78243E)](https://github.com/r2kernel/r2kernel) [![Installer downloads](https://img.shields.io/github/downloads/r2kernel/r2kernel/total?style=flat&color=78243E&label=downloads)](https://github.com/r2kernel/r2kernel/releases)
 
 </div>
 
@@ -93,7 +93,7 @@ Keep security details out of public issues, pull requests, and discussions while
 
 The R2Kernel runtime is provided as binaries under a proprietary license.
 
-The public SDKs, specifications, tutorials, and documentation use **Apache-2.0**. Third-party components have their own license terms and notices.
+The public SDK source, specifications, tutorials, and documentation use **Apache-2.0**. The `libr2kernel_comm` binary bundled with the SDK packages is under the runtime license until its source is published. Third-party components have their own license terms and notices.
 
 Read [Distribution and Licensing](https://docs.r2kernel.org/reference/distribution-and-licensing/) for the terms that apply to each part of the project.
 
@@ -108,7 +108,9 @@ The official download service may record:
 
 The stored size is the size of the file on the server. It does not show how many bytes the client received.
 
-These records help us deliver downloads, find delivery problems, investigate abuse, and keep the service secure and reliable.
+Consent records also keep the network operator derived from the client IP address.
+
+LRH Korea Inc. is responsible for these records. They help us deliver downloads, find delivery problems, investigate abuse, check license compliance, and keep the service secure and reliable.
 
 Read the [download notice](https://docs.r2kernel.org/reference/distribution-and-licensing/) and the notices included with your installation for more information.
 
